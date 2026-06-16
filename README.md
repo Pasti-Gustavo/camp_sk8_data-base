@@ -34,35 +34,35 @@ https://drive.google.com/file/d/17p-W-90zfP1nBhjiswyL_nAoSiVW8Ekd/view?usp=shari
 ## Modelagem Física
 --Scripts de criação das tabelas e relacionamentos do banco de dados.
 ##criação do schema
-trabalho_final_banco_sql_DOCUMENTACAO/m_fisica-1.png
+![Criação do Schema](trabalho_final_banco_sql_DOCUMENTACAO/m_fisica-1.png)
 
 ##criação das tabelas na ordem de referenciação de relacionamento.
-trabalho_final_banco_sql_DOCUMENTACAO/m_fisica-2.png
+![Criação das Tabelas](trabalho_final_banco_sql_DOCUMENTACAO/m_fisica-2.png)
 
 ##C.R.U.D.-OPERAÇÔES BÁSICAS
 
 ##C-CREATE
 --CRIANDO OS DADOS A SEREM ARMAZENADOS
-trabalho_final_banco_sql_DOCUMENTACAO/create.png
+![Create](trabalho_final_banco_sql_DOCUMENTACAO/create.png)
 
 ##R-READ 
 --CONSULTANDO OS DADOS
 -- 10 SKATISTAS DA BASE 'GOOFY'
-trabalho_final_banco_sql_DOCUMENTACAO/read_pela_base.png
+![Read por Base](trabalho_final_banco_sql_DOCUMENTACAO/read_pela_base.png)
 --10 MELHORES RUNS CLASSIFICADOS PARA FINAL
-trabalho_final_banco_sql_DOCUMENTACAO/read_melhor_n_run.png
+![Read Melhores Runs](trabalho_final_banco_sql_DOCUMENTACAO/read_melhor_n_run.png)
 
 ##U-UPDATE
 --ATUALIZAÇÃO DOS DADOS
 --NOTA DO "GUSTAVO PASTI" INSERIDA ERRADA ATUALIZADA
-trabalho_final_banco_sql_DOCUMENTACAO/update_melhor_volta.png
+![Update Melhor Volta](trabalho_final_banco_sql_DOCUMENTACAO/update_melhor_volta.png)
 ##D-DELETE
 --EXCLUSÃO DE DADOS DESNECESSÁRIOS
 --ELIMINANDO UM CONTRATO DE PATROCINIO EXPIRADO
 --1º CHECK DO ID CORRETO--
-trabalho_final_banco_sql_DOCUMENTACAO/chek_pre_del.png
+![Check Pré-Delete](trabalho_final_banco_sql_DOCUMENTACAO/chek_pre_del.png)
 --2º DELETANDO E CHECANDO O DELETE--
-trabalho_final_banco_sql_DOCUMENTACAO/check_pos_delete.png
+![Check Pós-Delete](trabalho_final_banco_sql_DOCUMENTACAO/check_pos_delete.png)
 
 
 
