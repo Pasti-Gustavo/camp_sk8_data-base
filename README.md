@@ -1,4 +1,4 @@
-# camp_sk8_data-base
+# camp_sk8_data_base
 Repositório para entrega do Trabalho final de Modelagem e Banco de Dados do 1º periodo de DSM-Fatec-Franca 
 Contextualização do Database:
 
