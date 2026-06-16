@@ -39,24 +39,24 @@ https://drive.google.com/file/d/17p-W-90zfP1nBhjiswyL_nAoSiVW8Ekd/view?usp=shari
 ##criação das tabelas na ordem de referenciação de relacionamento.
 ![Criação das Tabelas](trabalho_final_banco_sql_DOCUMENTACAO/m_fisica-2.png)
 
-##C.R.U.D.-OPERAÇÔES BÁSICAS
+## C.R.U.D.-OPERAÇÔES BÁSICAS
 
-##C-CREATE
+## C-CREATE
 --CRIANDO OS DADOS A SEREM ARMAZENADOS
 ![Create](trabalho_final_banco_sql_DOCUMENTACAO/create.png)
 
-##R-READ 
+## R-READ 
 --CONSULTANDO OS DADOS
 -- 10 SKATISTAS DA BASE 'GOOFY'
 ![Read por Base](trabalho_final_banco_sql_DOCUMENTACAO/read_pela_base.png)
 --10 MELHORES RUNS CLASSIFICADOS PARA FINAL
 ![Read Melhores Runs](trabalho_final_banco_sql_DOCUMENTACAO/read_melhor_n_run.png)
 
-##U-UPDATE
+## U-UPDATE
 --ATUALIZAÇÃO DOS DADOS
 --NOTA DO "GUSTAVO PASTI" INSERIDA ERRADA ATUALIZADA
 ![Update Melhor Volta](trabalho_final_banco_sql_DOCUMENTACAO/update_melhor_volta.png)
-##D-DELETE
+## D-DELETE
 --EXCLUSÃO DE DADOS DESNECESSÁRIOS
 --ELIMINANDO UM CONTRATO DE PATROCINIO EXPIRADO
 --1º CHECK DO ID CORRETO--
